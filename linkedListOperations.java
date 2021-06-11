@@ -1,4 +1,8 @@
 //You may copy this code and execute in your favourite editor to see the output
+//This program contains of insertion at begining,end and in a particular give position in linked list
+//deletion from begining,end and at a particular position in a linked list
+//Traversal of a linked list
+//you can easily identify the function names i.e, which function is used for what purpose.
 
 class Node
 {
