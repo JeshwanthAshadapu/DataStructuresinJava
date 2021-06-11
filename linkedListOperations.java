@@ -1,3 +1,5 @@
+//You may copy this code and execute in your favourite editor to see the output
+
 class Node
 {
     int data;
